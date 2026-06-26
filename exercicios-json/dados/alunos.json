@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nome": "Carlos Silva", "nota": 8.5, "turma": "INFO03A" },
+  { "id": 2, "nome": "Ana Beatriz", "nota": 9.0, "turma": "INFO03A" },
+  { "id": 3, "nome": "Diego Lima", "nota": 5.5, "turma": "INFO03B" },
+  { "id": 4, "nome": "Fernanda Souza", "nota": 7.0, "turma": "INFO03B" }
+]

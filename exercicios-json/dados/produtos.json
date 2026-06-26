@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nome": "Notebook", "preco": 2500.00, "categoria": "Eletrônicos" },
+  { "id": 2, "nome": "Mouse", "preco": 89.90, "categoria": "Periféricos" },
+  { "id": 3, "nome": "Teclado", "preco": 150.00, "categoria": "Periféricos" },
+  { "id": 4, "nome": "Monitor", "preco": 899.00, "categoria": "Eletrônicos" }
+]
